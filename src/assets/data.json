@@ -1,0 +1,29 @@
+[
+{
+    "nom":"Boullah",
+    "prenom":"Mohamed",
+    "login":"Mohamed Boullah",
+    "password":"1234",
+    "roles":["USER","ADMIN"]
+  },
+  {
+    "nom":"sidi",
+    "prenom":"zein",
+    "login":"sidi zein",
+    "password":"1234",
+    "roles":["USER","ADMIN"]
+  },
+   {
+    "nom":"Naji",
+    "prenom":"Mohamed",
+    "login":"Mohamed Naji",
+    "password":"1234",
+     "roles":["USER","ADMIN"]
+  },{
+    "nom":"Amou",
+    "prenom":"Ahmed",
+    "login":"Ahmed Amou",
+    "password":"1234",
+    "roles":["USER","ADMIN"]
+  }
+]

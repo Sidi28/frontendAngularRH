@@ -1,0 +1,31 @@
+[{
+    "id":0,
+    "nom": "yousef",
+    "prenom": "Mohamed",
+    "dateNe":"01/01/1997",
+    "nbHeureAb":7,
+    "note":14
+  },
+  {
+    "id":1,
+    "nom": "mariem",
+    "prenom": "ahmed",
+    "dateNe":"01/01/1997",
+    "nbHeureAb":8,
+    "note":15
+  },
+  {
+    "id":2,
+    "nom": "yarba",
+    "prenom": "sidi",
+    "dateNe":"01/01/1997",
+    "nbHeureAb":7,
+    "note":13
+  }, {
+    "id":2,
+    "nom": "sidi",
+    "prenom": "salem",
+    "dateNe":"01/01/1996",
+    "nbHeureAb":8,
+    "note":17
+  }]
